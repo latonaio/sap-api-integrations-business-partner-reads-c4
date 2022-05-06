@@ -1,5 +1,5 @@
 # sap-api-integrations-business-partner-reads-c4
-sap-api-integrations-business-partner-reads-c4 は、外部システム(特にエッジコンピューティング環境)をSAPと統合することを目的に、SAP API で BP(ビジネスパートナ) - 仕入先 データを取得するマイクロサービスです。    
+sap-api-integrations-business-partner-reads-c4 は、外部システム(特にエッジコンピューティング環境)をSAPと統合することを目的に、SAP API で ビジネスパートナ データを取得するマイクロサービスです。    
 sap-api-integrations-business-partner-reads-c4 には、サンプルのAPI Json フォーマットが含まれています。   
 sap-api-integrations-business-partner-reads-c4 は、オンプレミス版である（＝クラウド版ではない）SAPC4HANA API の利用を前提としています。クラウド版APIを利用する場合は、ご注意ください。   
 https://api.sap.com/api/businesspartner/overview   
