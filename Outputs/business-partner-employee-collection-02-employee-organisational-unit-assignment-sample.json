@@ -1,0 +1,21 @@
+{
+	"cursor": "/Users/latona2/bitbucket/sap-api-integrations-business-partner-reads-c4/SAP_API_Caller/caller.go#L484",
+	"function": "sap-api-integrations-business-partner-reads-c4/SAP_API_Caller.(*SAPAPICaller).EmployeeCollection",
+	"level": "INFO",
+	"message": [
+		{
+			"ObjectID": "00163E6689931ED8A0EB4AF66961D2BC",
+			"ParentObjectID": "00163E03A0701EE288BA37FB8F5F50A9",
+			"EmployeeID": "E1000",
+			"OrgUnitID": "US1100",
+			"RoleCode": "219",
+			"RoleCodeText": "Employee",
+			"StartDate": "2018-07-09T09:00:00+09:00",
+			"EndDate": "9999-12-31T09:00:00+09:00",
+			"JobID": "SALESREPRESENTATIVE",
+			"EntityLastChangedOn": "2018-07-09T18:28:43+09:00",
+			"ETag": "2020-04-24T14:24:58+09:00"
+		}
+	],
+	"time": "2022-05-06T22:08:17+09:00"
+}

@@ -1,0 +1,17 @@
+{
+	"cursor": "/Users/latona2/bitbucket/sap-api-integrations-business-partner-reads-c4/SAP_API_Caller/caller.go#L498",
+	"function": "sap-api-integrations-business-partner-reads-c4/SAP_API_Caller.(*SAPAPICaller).EmployeeCollection",
+	"level": "INFO",
+	"message": [
+		{
+			"ObjectID": "00163E03A0701EE288BA37FB8F7790A95SALES_REP_#$IBR$#_41",
+			"ParentObjectID": "00163E03A0701EE288BA37FB8F5F50A9",
+			"EmployeeID": "E1000",
+			"UserID": "USSALESREP01",
+			"BusinessRoleID": "SALES_REP",
+			"EntityLastChangedOn": "2020-05-06T15:42:46+09:00",
+			"ETag": "2020-05-06T15:42:46+09:00"
+		}
+	],
+	"time": "2022-05-06T22:08:18+09:00"
+}

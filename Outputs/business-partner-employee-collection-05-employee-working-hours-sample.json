@@ -1,0 +1,36 @@
+{
+	"cursor": "/Users/latona2/bitbucket/sap-api-integrations-business-partner-reads-c4/SAP_API_Caller/caller.go#L505",
+	"function": "sap-api-integrations-business-partner-reads-c4/SAP_API_Caller.(*SAPAPICaller).EmployeeCollection",
+	"level": "INFO",
+	"message": [
+		{
+			"ObjectID": "00163E0C84E21EE6BBCFC97443EB83C5",
+			"ParentObjectID": "00163E03A0701EE288BA37FB8F5F50A9",
+			"EmployeeID": "E1000",
+			"WorkingHoursType": "01",
+			"WorkingHoursTypeText": "Working Hours",
+			"StartDate": "2017-02-09T09:00:00+09:00",
+			"EndDate": "9999-12-31T09:00:00+09:00",
+			"TimeZoneCode": "UTC+12",
+			"TimeZoneCodeText": "UTC+12",
+			"WorkingDayCalendarCode": "0",
+			"WorkingDayCalendarCodeText": "General Calendar with 7 working days and no public holidays",
+			"ETag": "2018-07-09T18:28:43+09:00"
+		},
+		{
+			"ObjectID": "00163E0C84E21EE6BBCFD5E3474CC3F6",
+			"ParentObjectID": "00163E03A0701EE288BA37FB8F5F50A9",
+			"EmployeeID": "E1000",
+			"WorkingHoursType": "03",
+			"WorkingHoursTypeText": "Overtime",
+			"StartDate": "2017-02-09T09:00:00+09:00",
+			"EndDate": "9999-12-31T09:00:00+09:00",
+			"TimeZoneCode": "UTC+12",
+			"TimeZoneCodeText": "UTC+12",
+			"WorkingDayCalendarCode": "0",
+			"WorkingDayCalendarCodeText": "General Calendar with 7 working days and no public holidays",
+			"ETag": "2018-07-09T18:28:43+09:00"
+		}
+	],
+	"time": "2022-05-06T22:08:19+09:00"
+}

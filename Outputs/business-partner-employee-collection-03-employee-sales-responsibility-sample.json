@@ -1,0 +1,20 @@
+{
+	"cursor": "/Users/latona2/bitbucket/sap-api-integrations-business-partner-reads-c4/SAP_API_Caller/caller.go#L491",
+	"function": "sap-api-integrations-business-partner-reads-c4/SAP_API_Caller.(*SAPAPICaller).EmployeeCollection",
+	"level": "INFO",
+	"message": [
+		{
+			"ObjectID": "00163E6689931ED8A0EB4949C7BA92B6",
+			"ParentObjectID": "00163E03A0701EE288BA37FB8F5F50A9",
+			"EmployeeID": "E1000",
+			"SalesOrganisationID": "US1100",
+			"DistributionChannelCode": "01",
+			"DistributionChannelCodeText": "Direct sales",
+			"DivisionCode": "01",
+			"DivisionCodeText": "Division 1",
+			"MainIndicator": false,
+			"ETag": "2020-04-24T14:24:58+09:00"
+		}
+	],
+	"time": "2022-05-06T22:08:18+09:00"
+}

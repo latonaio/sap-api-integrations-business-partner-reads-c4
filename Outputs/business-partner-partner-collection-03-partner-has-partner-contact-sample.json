@@ -1,0 +1,23 @@
+{
+	"cursor": "/Users/latona2/bitbucket/sap-api-integrations-business-partner-reads-c4/SAP_API_Caller/caller.go#L102",
+	"function": "sap-api-integrations-business-partner-reads-c4/SAP_API_Caller.(*SAPAPICaller).PartnerCollection",
+	"level": "INFO",
+	"message": [
+		{
+			"ObjectID": "00163E038C701ED298B0726C673E57B9",
+			"ParentObjectID": "00163E038C701ED298AFFC9A58CB1677",
+			"PartnerID": "1000410",
+			"PartnerContactID": "7000001",
+			"MainIndicator": true,
+			"DepartmentCode": "0001",
+			"DepartmentCodeText": "Purchasing Dept",
+			"FunctionCode": "0018",
+			"FunctionCodeText": "Business Manager",
+			"VIPReasonCode": "",
+			"VIPReasonCodeText": "",
+			"EntityLastChangedOn": "2013-01-19T00:28:39+09:00",
+			"ETag": "2016-07-13T20:41:32+09:00"
+		}
+	],
+	"time": "2022-05-06T21:32:20+09:00"
+}
